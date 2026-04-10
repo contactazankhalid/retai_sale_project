@@ -1,4 +1,4 @@
-#Retail Sales Analysis - SQL Project
+
 # Project Overview
 This project involves a detailed analysis of retail sales data using SQL. The primary goal is to explore, clean, and analyze retail sales patterns to uncover key business insights. The analysis covers customer behavior, sales trends across different time periods (shifts, months, and years), and product category performance.
 
